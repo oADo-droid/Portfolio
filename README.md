@@ -5,6 +5,6 @@
 Projet réalisé pour des personnes en situation d’illectronisme.
 Objectif : améliorer la prise en main de la souris et la coordination.
 
-👉 https://github.com/oADo-droid/nom-du-repo
+👉 https://github.com/oADo-droid/MouseTraining/tree/main
 
 
