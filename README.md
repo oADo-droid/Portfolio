@@ -1,7 +1,10 @@
 # Portfolio – Adrien Mazières
 
 ## 🎯 Présentation
-(2–3 lignes sur ton parcours, NSI, SI, intérêt pour l’informatique)
+Initialement scolarisé au lycée Marie de Champagne, j’ai fait le choix de changer d’établissement afin de pouvoir suivre la spécialité NSI, motivé par mon intérêt marqué pour l’informatique.
+Je suis particulièrement attiré par la programmation et l’algorithmique, domaines dans lesquels j’apprécie la résolution de problèmes et la logique. À l’inverse, les aspects réseaux m’intéressent moins pour le moment, bien que j’en comprenne l’importance.
+En complément des projets réalisés au lycée, je développe régulièrement des projets personnels afin d’approfondir mes compétences, d’expérimenter par moi-même et de progresser de manière autonome.
+
 
 ## 🧩 Apprentissage de la programmation – Lua
 En parallèle de mes projets scolaires, j’apprends la programmation en langage Lua à travers la plateforme Roblox Studio, utilisée ici comme environnement de développement.
