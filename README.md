@@ -17,8 +17,9 @@ Ce cadre me permet de travailler concrètement sur :
 Roblox Studio me sert principalement d’outil de prototypage pour expérimenter des mécaniques logicielles et consolider mes bases en algorithmique.
 
 ## 📁 Projets
-- MousTrainer — 👉 https://github.com/oADo-droid/MouseTraining/tree/main
-- Bandit manchot (NSI) — https://github.com/oADo-droid/Bandit-Manchot
+- MousTrainer — 👉https://github.com/oADo-droid/MouseTraining/tree/main
+- Bandit manchot (NSI) — 👉https://github.com/oADo-droid/Bandit-Manchot
+- Re création d'un téléphone - 👉https://github.com/oADo-droid/Telephone
 - Mini-jeux 2D (conditions, logique) — lien
 - Site de présentation d’anime (NSI) — lien
 
