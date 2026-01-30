@@ -18,7 +18,6 @@ Roblox Studio me sert principalement d’outil de prototypage pour expérimenter
 
 ## 📁 Projets
 - MousTrainer — 👉 https://github.com/oADo-droid/MouseTraining/tree/main
-- Entraînement à la souris — lien
 - Bandit manchot (NSI) — lien
 - Mini-jeux 2D (conditions, logique) — lien
 - Site de présentation d’anime (NSI) — lien
