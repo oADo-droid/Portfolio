@@ -2,7 +2,7 @@
 
 ## 📌 Présentation
 Initialement scolarisé au lycée Marie de Champagne, j’ai fait le choix de changer d’établissement afin de pouvoir suivre la spécialité NSI, motivé par mon intérêt marqué pour l’informatique.
-Je suis particulièrement attiré par la programmation et l’algorithmique, domaines dans lesquels j’apprécie la résolution de problèmes et la logique. À l’inverse, les aspects réseaux m’intéressent moins pour le moment, bien que j’en comprenne l’importance.
+Je suis particulièrement attiré par la programmation et l’algorithmique, domaines dans lesquels j’apprécie la résolution de problèmes et la logique.
 En complément des projets réalisés au lycée, je développe régulièrement des projets personnels afin d’approfondir mes compétences, d’expérimenter par moi-même et de progresser de manière autonome.
 
 
