@@ -1,4 +1,4 @@
-# Portfolio – Adrien Mazières
+# Portfolio – candidat oADo
 
 ## 📌 Présentation
 Initialement scolarisé au lycée Marie de Champagne, j’ai fait le choix de changer d’établissement afin de pouvoir suivre la spécialité NSI, motivé par mon intérêt marqué pour l’informatique.
